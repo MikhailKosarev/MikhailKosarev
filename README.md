@@ -1,12 +1,19 @@
-# 💫 About Me:
-👋 Hi, I’m @MikhailKosarev<br>👀 I’m interested in iOS development<br>🌱 I’m currently learning SWIFT
+# Hi, I’m Mikhail 👋
 
+<💫 About Me:
+<br>👀 I’m interested in iOS development<br>🌱 I’m currently learning SWIFT
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=MikhailKosarev&theme=default&hide_border=false)<br/>
+<br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mikhailkosarev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mikhailkosarev&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhailkosarev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mikhailkosarev&icon=1&color=9)](https://visitcount.itsvg.in)
 
 <!---
 MikhailKosarev/MikhailKosarev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
