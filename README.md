@@ -1,7 +1,7 @@
 # Hi, I’m Mikhail 👋
 
-<💫 About Me:
-<br>👀 I’m interested in iOS development<br>🌱 I’m currently learning SWIFT<br>📫 LinkedIn - www.linkedin.com/in/mikhailkosarev  | 
+💫 About Me:
+<br>👀 I’m interested in iOS development<br>🌱 I’m currently learning SWIFT<br>📫 LinkedIn - www.linkedin.com/in/mikhailkosarev
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
