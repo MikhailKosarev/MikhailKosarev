@@ -1,7 +1,7 @@
 # Hi, I’m Mikhail 👋
 
 💫 About Me:
-<br>👀 I’m an iOS developer<br>🌱 I’m a big Swift language fan <br>📫 LinkedIn - www.linkedin.com/in/mikhailkosarev
+<br>👀 I’m an iOS developer<br>🌱 I’m a big Swift language fan <br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mikhailkosarev&theme=tokyonight&hide_border=false)<br/>
